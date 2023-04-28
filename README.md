@@ -16,14 +16,14 @@ What I use for web development :
 - ![Composer]
 
 DBMS I'm familiar with :
-- ![postgreSql]
-- ![MariaDb]
-- ![Elasticsearch]
-- ![CouchDb]
+
+- ![postgreSql] ![MariaDb]
+- ![Elasticsearch] ![CouchDb]
 
 I want to improve with :
-- ![Symfony]
-- ![Laravel]
+
+- ![Symfony] ![Laravel]
+- ![Proxmox]
 
 I'm intersted in :
 
@@ -35,7 +35,7 @@ My informations :
 - [![LinkedIn]](https://www.linkedin.com/in/deep-green/)
 
 Systems I use :
-- 
+- ![Debian] ![Fedora] ![Arch]:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -53,7 +53,7 @@ Systems I use :
 [Php.net]: https://img.shields.io/badge/Php-4F5B93?style=for-the-badge&logo=php&logoColor=white
 [Chart.js]: https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white
 
-
+[Proxmox]: https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=Proxmox&logoColor=FFFFFF
 <!-- Database -->
 [postgreSql]: https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
 [MariaDb]: https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white
@@ -75,3 +75,7 @@ Systems I use :
 <!-- social -->
 [LinkedIn]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [CVDesigner]: https://img.shields.io/badge/CVDesigner-37AFE3?style=for-the-badge
+<!-- Systems -->
+[Debian]: https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white
+[Fedora]: https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white
+[Arch]: https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white
