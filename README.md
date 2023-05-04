@@ -1,41 +1,34 @@
 - 👋 Hi, I’m @deep-green-code
 - 👀 I’m interested in Web developpement and Devops
-- 🌱 I’m currently improving in PHP, JS and Symfony
-- 📫 [![Gmail]](bouchut.e@gmail.com)
+- 🌱 I’m currently improving in PHP, Symfony and JS
+- [![Gmail]](bouchut.e@gmail.com)
+- [![CVDesigner]](https://cvdesignr.com/p/613f13aa63cbe)
+- [![LinkedIn]](https://www.linkedin.com/in/deep-green/)
 
-Tools I use :
-
-- ![VSCode] ![Postman]
-- ![Docker] 
-- ![Krita]
-
-What I use for web development :
-
-- ![php.net] ![Javascript] ![JQuery.com]
-- ![Bootstrap.com] ![Chart.js]
-- ![Composer]
-
-DBMS I'm familiar with :
-
-- ![postgreSql] ![MariaDb]
-- ![Elasticsearch] ![CouchDb]
+||
+|---|
+|![php.net] ![Composer] ![Postman]|
+|![Javascript] ![JQuery.com] ![Chart.js]|
+|![postgreSql] ![MariaDb]|
+|![Elasticsearch] ![CouchDb]|
+|![VSCode] ![Obsidian]|
+|![Docker] ![Proxmox]|
+|![Git]|
+|![Tabby]|
+|![Krita]|
+|![Fedora] ![Debian]|
+||
 
 I want to improve with :
 
-- ![Symfony] ![Laravel]
-- ![Proxmox]
+- ![Symfony]
+- ![Laravel]
 
 I'm intersted in :
 
 - ![Vue.js]
 - ![React.js]
 
-My informations :
-- [![CVDesigner]](https://cvdesignr.com/p/613f13aa63cbe)
-- [![LinkedIn]](https://www.linkedin.com/in/deep-green/)
-
-Systems I use :
-- ![Debian] ![Fedora] ![Arch]:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -46,6 +39,9 @@ Systems I use :
 [Composer]: https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white
 [Postman]: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white
 [Krita]: https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B
+[Tabby]: https://img.shields.io/badge/Tabby-74aeb8?style=for-the-badge&logo=tmux&logoColor=B0ECF4
+[Git]: https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
+[Obsidian]: https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white
 <!-- regular -->
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Javascript]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
